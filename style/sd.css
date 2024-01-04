@@ -1,0 +1,15 @@
+*{
+    padding:5px;
+    margin:5px;
+}
+p{
+    background-color: tomato;
+    border-radius: 5px;
+    border-color: aqua;
+    padding: auto;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+}
